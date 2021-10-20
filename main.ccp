@@ -1,5 +1,5 @@
 /*  Number Guesser
-    Code: 
+    Code: https://github.com/lukebelden/NumGuess.git
     Author: Luke Belden
     Pizzaz 1: Loop (go again) #29
     Pizzaz 2: number assist (the current number on the right side to help you) 
